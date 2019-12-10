@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 '이것'은 local에서 작업한 것.
+=======
+junk file
+'이것'은 Github에서 작업한 것.
+>>>>>>> e4614cd97012d1d21aa4d30b1eb393aafd6ba532
