@@ -1,4 +1,4 @@
-## Git_원격 저장소 초기화 하기
+## Git_원격 저장소 초기화하기
 
 <br>
 
@@ -31,6 +31,7 @@
    
    # 잘 되었는지 확인한다.
    git remote -v
+   
    # 결과메시지
    origin Git-Address (fetch)
    origin Git-Address (push)
